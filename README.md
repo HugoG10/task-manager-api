@@ -4,6 +4,8 @@ REST API for personal tasks. Users register, log in with JWT, and manage their o
 
 Interactive docs: [http://localhost:8000/docs](http://localhost:8000/docs)
 
+Live on Render: [https://task-manager-api-bxsj.onrender.com/docs](https://task-manager-api-bxsj.onrender.com/docs)
+
 ## Resume bullets
 
 - Built a FastAPI REST API with JWT auth, bcrypt password hashing, and per-user task isolation
